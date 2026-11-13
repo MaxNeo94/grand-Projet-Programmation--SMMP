@@ -1,14 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="97110cc5-ec0e-40d2-9adb-6745c188df22" name="Changes" comment="" />
+    <list default="true" id="97110cc5-ec0e-40d2-9adb-6745c188df22" name="Changes" comment="nouveau message" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MaxNeo94/grand-Projet-Programmation--SMMP.git",
+    "accountId": "6a6b416c-3015-44e3-8b0c-8fe91a68b7b0"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000010879174162" />
+      <entry key="MS500" value="1.067412120151691" />
+      <entry key="S2" value="1.7503249138944401" />
+      <entry key="S5" value="2.8375072789513363" />
+      <entry key="S10" value="4.772636317163659" />
+      <entry key="S30" value="11.061103813032846" />
+      <entry key="S60" value="17.512243382052993" />
+      <entry key="M2" value="23.921803585971045" />
+      <entry key="M5" value="29.793918201708983" />
+      <entry key="M10" value="32.243425971205994" />
+      <entry key="M15" value="33.126049972128214" />
+      <entry key="M30" value="34.04434474254344" />
+      <entry key="H1" value="34.51739328298021" />
+      <entry key="H2" value="34.75748793252044" />
+      <entry key="H4" value="34.87844002722247" />
+      <entry key="D1" value="34.979697640321874" />
+      <entry key="W1" value="34.997098623443904" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8467462660368437" />
+      <entry key="MS500" value="1.0300144535183409" />
+      <entry key="S2" value="1.624281925572212" />
+      <entry key="S5" value="2.702023276821677" />
+      <entry key="S10" value="4.676705486896874" />
+      <entry key="S30" value="11.018119244429233" />
+      <entry key="S60" value="17.48277969834995" />
+      <entry key="M2" value="23.899950646141896" />
+      <entry key="M5" value="29.781485877143584" />
+      <entry key="M10" value="32.236299222785" />
+      <entry key="M15" value="33.12106730006485" />
+      <entry key="M30" value="34.04172948204935" />
+      <entry key="H1" value="34.51605304855509" />
+      <entry key="H2" value="34.756809453033796" />
+      <entry key="H4" value="34.87809866996805" />
+      <entry key="D1" value="34.97964045103511" />
+      <entry key="W1" value="34.997090446256436" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6,
@@ -21,12 +94,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Git.CreateWorkingTree.LastParentPath": "C:/Users/mpoix/PycharmProjects",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "message-1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -44,9 +131,53 @@
       <option name="presentableId" value="Default" />
       <updated>1794595304173</updated>
     </task>
+    <task id="LOCAL-00001" summary="nouveau message">
+      <option name="closed" value="true" />
+      <created>1794595509506</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794595509506</updated>
+    </task>
+    <task id="LOCAL-00002" summary="nouveau message">
+      <option name="closed" value="true" />
+      <created>1794596119726</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1794596119726</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="message-1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nouveau message" />
+    <option name="LAST_COMMIT_MESSAGE" value="nouveau message" />
   </component>
 </project>
